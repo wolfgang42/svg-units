@@ -1,0 +1,22 @@
+{
+  "name": "svg-units",
+  "version": "1.0.0",
+  "description": "Convert between SVG user units and various absolute units",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfgang42/svg-units.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "Wolfgang Faust",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/wolfgang42/svg-units/issues"
+  },
+  "homepage": "https://github.com/wolfgang42/svg-units#readme"
+}
